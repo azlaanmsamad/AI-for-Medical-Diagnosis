@@ -33,14 +33,12 @@ The Third part [Image segmentation on MRI images](https://github.com/azlaanmsama
 
 There are following notebooks:
 * [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/azlaanmsamad/AI-for-Medical-Diagnosis/blob/master/Disease%20detection%20with%20computer%20vision/Chest%20X-Ray%20Medical%20Diagnosis%20with%20Deep%20Learning.ipynb):
-
-⋅⋅⋅This notebook is used to achieve the following tasks:
-
-⋅⋅* Pre-process and prepare a real-world X-ray dataset
-⋅⋅* Use transfer learning to retrain a DenseNet model for X-ray image classification
-⋅⋅* Learn a technique to handle class imbalance
-⋅⋅* Measure diagnostic performance by computing the AUC (Area Under the Curve) for the ROC (Receiver Operating Characteristic) curve
-⋅⋅* Visualize model activity using GradCAMs
+This notebook is used to achieve the following tasks:
+* Pre-process and prepare a real-world X-ray dataset
+* Use transfer learning to retrain a DenseNet model for X-ray image classification
+* Learn a technique to handle class imbalance
+* Measure diagnostic performance by computing the AUC (Area Under the Curve) for the ROC (Receiver Operating Characteristic) curve
+* Visualize model activity using GradCAMs
 
 * [Evaluation of Diagnostic Models](https://github.com/azlaanmsamad/AI-for-Medical-Diagnosis/blob/master/Evaluating%20models/Evaluation%20of%20Diagnostic%20Models.ipynb)
 * [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://github.com/azlaanmsamad/AI-for-Medical-Diagnosis/blob/master/Image%20segmentation%20on%20MRI%20images/Brain%20Tumor%20Auto-Segmentation%20for%20Magnetic%20Resonance%20Imaging%20(MRI).ipynb)
