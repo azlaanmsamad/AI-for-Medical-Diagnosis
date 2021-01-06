@@ -4,8 +4,10 @@
 
 This repo is divided into 3 parts:
 1. [Disease detection with computer vision](https://github.com/azlaanmsamad/AI-for-Medical-Diagnosis/tree/master/Disease%20detection%20with%20computer%20vision)
+![An example of MRI Image](https://github.com/azlaanmsamad/AI-for-Medical-Diagnosis/blob/master/Disease%20detection%20with%20computer%20vision/xray-header-image.png)
 2. [Evaluating models](https://github.com/azlaanmsamad/AI-for-Medical-Diagnosis/tree/master/Evaluating%20models)
 3. [Image segmentation on MRI images](https://github.com/azlaanmsamad/AI-for-Medical-Diagnosis/tree/master/Image%20segmentation%20on%20MRI%20images)
+![alt-text](https://github.com/azlaanmsamad/AI-for-Medical-Diagnosis/blob/master/Image%20segmentation%20on%20MRI%20images/MRIImage.jpeg)
 
 
 
@@ -33,7 +35,6 @@ The Third part [Image segmentation on MRI images](https://github.com/azlaanmsama
 
 There are following notebooks:
 * [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/azlaanmsamad/AI-for-Medical-Diagnosis/blob/master/Disease%20detection%20with%20computer%20vision/Chest%20X-Ray%20Medical%20Diagnosis%20with%20Deep%20Learning.ipynb):
-![An example of MRI Image](https://github.com/azlaanmsamad/AI-for-Medical-Diagnosis/blob/master/Disease%20detection%20with%20computer%20vision/xray-header-image.png)
   This notebook is used to achieve the following tasks:
   * Pre-process and prepare a real-world X-ray dataset
   * Use transfer learning to retrain a DenseNet model for X-ray image classification
