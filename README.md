@@ -33,6 +33,7 @@ The Third part [Image segmentation on MRI images](https://github.com/azlaanmsama
 
 There are following notebooks:
 * [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/azlaanmsamad/AI-for-Medical-Diagnosis/blob/master/Disease%20detection%20with%20computer%20vision/Chest%20X-Ray%20Medical%20Diagnosis%20with%20Deep%20Learning.ipynb):
+![An example of MRI Image](https://github.com/azlaanmsamad/AI-for-Medical-Diagnosis/blob/master/Disease%20detection%20with%20computer%20vision/xray-header-image.png)
   This notebook is used to achieve the following tasks:
   * Pre-process and prepare a real-world X-ray dataset
   * Use transfer learning to retrain a DenseNet model for X-ray image classification
@@ -40,5 +41,15 @@ There are following notebooks:
   * Measure diagnostic performance by computing the AUC (Area Under the Curve) for the ROC (Receiver Operating Characteristic) curve
   * Visualize model activity using GradCAMs
 
-* [Evaluation of Diagnostic Models](https://github.com/azlaanmsamad/AI-for-Medical-Diagnosis/blob/master/Evaluating%20models/Evaluation%20of%20Diagnostic%20Models.ipynb)
+* [Evaluation of Diagnostic Models](https://github.com/azlaanmsamad/AI-for-Medical-Diagnosis/blob/master/Evaluating%20models/Evaluation%20of%20Diagnostic%20Models.ipynb): This notebook uses different notebooks to evaluate models.
+
 * [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://github.com/azlaanmsamad/AI-for-Medical-Diagnosis/blob/master/Image%20segmentation%20on%20MRI%20images/Brain%20Tumor%20Auto-Segmentation%20for%20Magnetic%20Resonance%20Imaging%20(MRI).ipynb)
+  This notebook is used to achieve the following tasks:
+  * Perform image segmentation on 3D MRI data.
+  * Take random sub-samples from a 3D image.
+  * Standardize an input image.
+  * Apply a pre-trained U-Net model.
+  * Implement a proper loss function for model training (soft dice loss).
+  * Evaluate model performance by calculating sensitivity and specificity.
+  
+  
